@@ -10,7 +10,7 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
-1. [The Workflow](#the-architecture)
+1. [The Workflow](#the-workflow)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [System Overview](#system-overview)
@@ -40,7 +40,7 @@ It's imperative that learning and creating can continue when educational institu
 
 [![Watch the video](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20Learning%20Continues_Moment.jpg)](https://youtu.be/3YTJAsY6rXc)
 
-## The architecture
+## The Workflow
 
 ![Project Svādhyāya - Student BOT Ineractions](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20Flow%20Diagram.png)
 
