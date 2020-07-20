@@ -9,7 +9,7 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 ## Contents
 
 1. [Short description](#short-description)
-1. [Demo video](#demo-video)
+1. [Explainer Video](#explainer-video)
 1. [The Workflow](#the-workflow)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
@@ -36,8 +36,9 @@ Schools and teachers can continue to engage with their students through virtual 
 
 It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable students to get their queries clarified by experts which causes a roadblock to their study at home.
 
-## Demo video
+## Explainer Video
 
+Click on the below image to watch the explainer video on YouTube.
 [![Watch the video](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20Learning%20Continues_Moment.jpg)](https://youtu.be/3YTJAsY6rXc)
 
 ## The Workflow
