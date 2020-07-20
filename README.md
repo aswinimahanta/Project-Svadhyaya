@@ -13,7 +13,7 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 1. [The Workflow](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
-1. [System Overview](#getting-started)
+1. [System Overview](#system-overview)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
