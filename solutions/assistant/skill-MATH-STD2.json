@@ -1,0 +1,1080 @@
+{
+  "intents": [
+    {
+      "intent": "News_Corona_Virus",
+      "examples": [
+        {
+          "text": "Whats happening?"
+        },
+        {
+          "text": "school news"
+        },
+        {
+          "text": "What is in the NEWS?"
+        },
+        {
+          "text": "whats happening"
+        },
+        {
+          "text": "NEWS"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AlgebraFunctions",
+      "examples": [
+        {
+          "text": "what is there in funcations"
+        },
+        {
+          "text": "what am i learning in second grade algebra"
+        },
+        {
+          "text": "what are principles of functions"
+        },
+        {
+          "text": "What are principles of algebra"
+        }
+      ],
+      "description": "Principles of Algebra and Functions"
+    },
+    {
+      "intent": "goodbyes",
+      "examples": [
+        {
+          "text": "bye im going to play a game"
+        },
+        {
+          "text": "farewell"
+        },
+        {
+          "text": "go"
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "good day"
+        },
+        {
+          "text": "gday"
+        },
+        {
+          "text": "gotta go"
+        },
+        {
+          "text": "gotta run"
+        },
+        {
+          "text": "gtg"
+        },
+        {
+          "text": "have a good one"
+        },
+        {
+          "text": "im leaving"
+        },
+        {
+          "text": "later"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "see you later"
+        },
+        {
+          "text": "should be going"
+        },
+        {
+          "text": "should go"
+        },
+        {
+          "text": "signing off"
+        },
+        {
+          "text": "signing out"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "soon"
+        },
+        {
+          "text": "take care"
+        },
+        {
+          "text": "take it easy"
+        },
+        {
+          "text": "sorry got to go"
+        },
+        {
+          "text": "thank you for the info"
+        },
+        {
+          "text": "no thank you"
+        },
+        {
+          "text": "youre welcome now bye"
+        },
+        {
+          "text": "shut up"
+        },
+        {
+          "text": "thanks for your help"
+        },
+        {
+          "text": "be quiet robot"
+        },
+        {
+          "text": "done"
+        },
+        {
+          "text": "dont need your help at all"
+        },
+        {
+          "text": "good bye hohoho"
+        },
+        {
+          "text": "goodbye joto"
+        },
+        {
+          "text": "got to go bye nice time talking to you"
+        },
+        {
+          "text": "gtg go right now ok"
+        },
+        {
+          "text": "stop"
+        },
+        {
+          "text": "ok thank you"
+        },
+        {
+          "text": "ok thank you for your time"
+        },
+        {
+          "text": "ok thanks"
+        },
+        {
+          "text": "o thank u"
+        },
+        {
+          "text": "i am done with you"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "ty"
+        },
+        {
+          "text": "ttyl"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "toodles"
+        },
+        {
+          "text": "then bye"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thanks watson"
+        },
+        {
+          "text": "talk to you later"
+        },
+        {
+          "text": "talk to you soon"
+        },
+        {
+          "text": "see ya later"
+        },
+        {
+          "text": "see ya soon"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "run"
+        },
+        {
+          "text": "over and out"
+        },
+        {
+          "text": "out of time"
+        },
+        {
+          "text": "ok bye"
+        },
+        {
+          "text": "my time is up"
+        },
+        {
+          "text": "logging off"
+        },
+        {
+          "text": "leave"
+        },
+        {
+          "text": "laters"
+        },
+        {
+          "text": "no problem"
+        },
+        {
+          "text": "i'm leaving"
+        },
+        {
+          "text": "g'day"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "adieu"
+        },
+        {
+          "text": "adios"
+        },
+        {
+          "text": "au revoir"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "bye bye"
+        },
+        {
+          "text": "bye now"
+        },
+        {
+          "text": "catch ya later"
+        },
+        {
+          "text": "cya"
+        }
+      ]
+    },
+    {
+      "intent": "Substractions",
+      "examples": [
+        {
+          "text": "math tip"
+        },
+        {
+          "text": "math tricks"
+        },
+        {
+          "text": "math tips"
+        },
+        {
+          "text": "tips and tricks for subtraction"
+        },
+        {
+          "text": "can i subtract a large number from small number?"
+        }
+      ],
+      "description": "Principles of subtractions"
+    },
+    {
+      "intent": "MathTesting",
+      "examples": [
+        {
+          "text": "surprise test"
+        },
+        {
+          "text": "is there any surprise test"
+        },
+        {
+          "text": "when is our next test"
+        },
+        {
+          "text": "math test"
+        }
+      ],
+      "description": "When, where, how of test is conducted"
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "hola"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "howdy"
+        },
+        {
+          "text": "feeling a bit low"
+        },
+        {
+          "text": "bonjour"
+        },
+        {
+          "text": "namaste"
+        },
+        {
+          "text": "heya"
+        },
+        {
+          "text": "Olla"
+        },
+        {
+          "text": "yello"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hello watson"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "aloha"
+        },
+        {
+          "text": "buenos dias"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "good evening"
+        }
+      ]
+    },
+    {
+      "intent": "ClassSchedule",
+      "examples": [
+        {
+          "text": "when is my math class scheduled?"
+        },
+        {
+          "text": "math class"
+        },
+        {
+          "text": "schedule"
+        },
+        {
+          "text": "class timings"
+        }
+      ],
+      "description": "Find out when you class is scheduled"
+    },
+    {
+      "intent": "NumberSense",
+      "examples": [
+        {
+          "text": "what is place value"
+        },
+        {
+          "text": "what are operation on numbers"
+        },
+        {
+          "text": "what is there is 2nd grade math"
+        },
+        {
+          "text": "what is subtraction"
+        },
+        {
+          "text": "what can i learn from second grade math"
+        }
+      ],
+      "description": "Place Value, Addition, Subtraction, Multiplication, Division, and Fractions"
+    },
+    {
+      "intent": "MeasurementGeometry",
+      "examples": [
+        {
+          "text": "how do i learn measurement"
+        },
+        {
+          "text": "Can i learn geometry"
+        },
+        {
+          "text": "what are principles of geometry"
+        },
+        {
+          "text": "what are principles of measurement"
+        }
+      ],
+      "description": "Disinfection Guidance"
+    },
+    {
+      "intent": "DataSource",
+      "examples": [
+        {
+          "text": "How do you know this?"
+        },
+        {
+          "text": "Where do you get your information?"
+        },
+        {
+          "text": "Are you sure?"
+        },
+        {
+          "text": "Where did you learn this?"
+        },
+        {
+          "text": "Is this true?"
+        },
+        {
+          "text": "Is this information accurate?"
+        }
+      ],
+      "description": "Information on where this bot sourced it's data"
+    },
+    {
+      "intent": "StatisticsDataAnalysisProbability",
+      "examples": [
+        {
+          "text": "is there any advance topic in second grade math?"
+        },
+        {
+          "text": "what are advance topics in second grade math"
+        }
+      ],
+      "description": "Advance Topics in second grade"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "emprire state",
+            "empire state"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "times sqaure",
+            "time square",
+            "time sqaure"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "not now",
+            "not at this time",
+            "nope",
+            "i think not",
+            "dont think so",
+            "don't think so",
+            "definitely not"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "yep",
+            "you betcha",
+            "you bet",
+            "yes",
+            "yeah",
+            "why not",
+            "sure",
+            "please",
+            "ok",
+            "let's do it",
+            "go for it",
+            "definitely"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "topics",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "subject",
+          "synonyms": [
+            "mathematics",
+            "science",
+            "ELA",
+            "PE"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "school_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "middle school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "college",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "preschool",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "grade school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "high school",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "coronavirus",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coronavirus",
+          "synonyms": [
+            "corona",
+            "virus check",
+            "virus",
+            "COVID-19",
+            "COVID",
+            "coronavirus",
+            "corona-virus",
+            "carona-virus",
+            "Carona",
+            "Korona",
+            "Korona-virus",
+            "COVID19"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.appdomain.cloud/api/v1/web/aswini_mahanta%40infosys.com_dev/default/discovery-student-async.json",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Authorization",
+          "value": "Basic MGJkMWVmNDItMmM4NC00YTVhLWJlMmUtNzU0YzI2YTkxYzkxOkkySG1IMUF1RVdZYmNVbzZSWlVpWHEwbHZJV1I0M0hJTGNZMGVCeFg5WnQ0TnFjcGxha2JiaTdvdm9YQ2tieks="
+        },
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "node_11790",
+      "output": {},
+      "parent": "node_11788",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_11749"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_11790",
+      "previous_sibling": "node_11789"
+    },
+    {
+      "type": "standard",
+      "title": "node_11789",
+      "output": {},
+      "parent": "node_11788",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_11748"
+      },
+      "conditions": "input.text == '' && !input.button",
+      "dialog_node": "node_11789"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I don't know the answer to that yet. But I am learning new things all the time."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_11749",
+      "conditions": "anything_else",
+      "dialog_node": "response_10_1585074744879",
+      "previous_sibling": "response_10_1585074743918"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I don't know the answer to that yet.  $webhook_result_2.result"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "parent": "node_11749",
+      "context": {},
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_10_1585074743918"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Try again later."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1584976214871",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1584976331717",
+      "previous_sibling": "response_5_1584976331463"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_1.result"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1584976214871",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_5_1584976331463"
+    },
+    {
+      "type": "standard",
+      "title": "node_11749",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_2"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_11749",
+      "previous_sibling": "node_11750"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "text": {
+          "values": [
+            "Hello, I’m the Intelligent Bot ready to answer your questions about MATH. I am virtual assistant to your favorite teacher. How can I help you?"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "#greeting && intents[0].confidence > 0.95",
+      "dialog_node": "node_11748",
+      "previous_sibling": "node_11788"
+    },
+    {
+      "type": "standard",
+      "title": "Surprise Test",
+      "output": {
+        "text": {
+          "values": [
+            "Due to COVID-19 situation, there is no test on MATH for now. Enjoy your day !"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#MathTesting && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11753",
+      "previous_sibling": "node_11752"
+    },
+    {
+      "type": "standard",
+      "title": "node_11750",
+      "output": {
+        "text": {
+          "values": [
+            "Did you mean:",
+            "You seem to be asking about: ",
+            "I think you were asking about:"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "buttons": [
+          {
+            "id": "<? intents.?[intent != 'greeting' && intent != 'goodbyes'  && intent != 'nonsense' && intent != 'no' && intent != 'yes' && intent != 'weather'][0].intent ?>"
+          },
+          {
+            "id": "<? intents.?[intent != 'greeting' && intent != 'goodbyes'  && intent != 'nonsense' && intent != 'no' && intent != 'yes' && intent != 'weather'][1].intent ?>"
+          },
+          {
+            "id": "<? intents.?[intent != 'greeting' && intent != 'goodbyes'  && intent != 'nonsense' && intent != 'no' && intent != 'yes' && intent != 'weather'][2].intent ?>"
+          }
+        ],
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "intents.size() > 0 && (intents[0].confidence < $low_confidence && intents[0].confidence > $out_of_bounds)",
+      "dialog_node": "node_11750",
+      "previous_sibling": "node_8_1585238958758"
+    },
+    {
+      "type": "standard",
+      "title": "Geometry",
+      "output": {
+        "text": {
+          "values": [
+            "Geometry is a branch of mathematics concerned with questions of shape, size, relative position of figures, and the properties of space. A mathematician who works in the field of geometry is called a geometer."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#MeasurementGeometry && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11754",
+      "previous_sibling": "node_11753"
+    },
+    {
+      "type": "standard",
+      "title": "Advance Math",
+      "output": {
+        "text": {
+          "values": [
+            "Statistics, Data Analysis and Probability are three advance math topics to be taught in second grade."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#StatisticsDataAnalysisProbability && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11756",
+      "previous_sibling": "node_11755"
+    },
+    {
+      "type": "standard",
+      "title": "Class Schedule",
+      "output": {
+        "text": {
+          "values": [
+            "As of today, we don't have a class schedule available. Your homeroom teacher will communicate to you as soon as this is created. Please check back later."
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#ClassSchedule && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11752",
+      "previous_sibling": "node_11751"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "output": {
+        "text": {
+          "values": [
+            "Farewell!",
+            "Take Care",
+            "Stay Safe Out There"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "#goodbyes && intents[0].confidence > 0.95",
+      "dialog_node": "node_11791",
+      "previous_sibling": "node_11748"
+    },
+    {
+      "type": "standard",
+      "title": "Data Disclaimer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This bot is populated with data sourced from dynamic news stories that are sourced from Watson Discovery's news feed. Additional information on that service can be found here: https://www.ibm.com/watson/services/discovery-news/\n\nWe are working on the next version to connect you with your favorite teacher. We hope to see you soon with the new feature !"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "(#DataSource && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_8_1585238958758",
+      "previous_sibling": "node_11757"
+    },
+    {
+      "type": "standard",
+      "title": "Tips and Tricks",
+      "output": {
+        "text": {
+          "values": [
+            "In math, to subtract means to take away from a group or a number of things. When we subtract, the number of things in the group reduce or become less. ... In the subtraction problem, 7 – 3 = 4, the number 7 is the minuend, the number 3 is the subtrahend and the number 4 is the difference. You can subtract a large number from a small number. Can you try one and let me know the answer ?"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#Substractions && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11757",
+      "previous_sibling": "node_11756"
+    },
+    {
+      "type": "standard",
+      "title": "Number Sense",
+      "output": {
+        "text": {
+          "values": [
+            "MATH objectives in second grade include the followings: Place Value, Addition, Subtraction, Multiplication, Division, and Fractions"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#NumberSense && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11755",
+      "previous_sibling": "node_11754"
+    },
+    {
+      "type": "standard",
+      "title": "What is Algebra?",
+      "output": {
+        "text": {
+          "values": [
+            "Algebra is one of the broad parts of mathematics, together with number theory, geometry and analysis. In its most general form, algebra is the study of mathematical symbols and the rules for manipulating these symbols; it is a unifying thread of almost all of mathematics"
+          ],
+          "selection_policy": "sequential"
+        },
+        "video": {},
+        "disclaimers": [
+          "SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/faq.html"
+        ]
+      },
+      "context": {},
+      "conditions": "(#AlgebraFunctions && intents[0].confidence > $low_confidence)",
+      "dialog_node": "node_11751",
+      "previous_sibling": "node_2_1584976214871"
+    },
+    {
+      "type": "folder",
+      "title": "api",
+      "dialog_node": "node_4_1585096044203",
+      "previous_sibling": "node_11791"
+    },
+    {
+      "type": "standard",
+      "title": "Latest News on Covid19",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "": ""
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#News_Corona_Virus",
+      "dialog_node": "node_2_1584976214871",
+      "previous_sibling": "node_4_1585096044203"
+    },
+    {
+      "type": "standard",
+      "title": "#Set confidence thresholds",
+      "output": {},
+      "context": {
+        "out_of_bounds": 0.2,
+        "low_confidence": 0.45
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_11789"
+      },
+      "conditions": "conversation_start",
+      "dialog_node": "node_11788"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "enabled": false,
+      "randomize": true,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": true,
+  "name": "Project Svādhyāya First Skill (MOCK COVID)",
+  "language": "en",
+  "description": ""
+}
