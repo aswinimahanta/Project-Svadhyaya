@@ -13,8 +13,7 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 1. [The Workflow](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
+1. [System Overview](#getting-started)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
@@ -58,70 +57,21 @@ It's imperative that learning and creating can continue when educational institu
 
 ![Roadmap](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20Time%20Line.png)
 
-## Getting started
+## System Overview
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+High-level system overview of Project Svādhyāya
 
-### Prerequisites
+### The Concept
 
-What things you need to install the software and how to install them
+![Behind Concepts](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20The%20Concept.png)
 
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
+### The Technology Stack
 
-### Installing
+![Planned Technology Stack](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20Technology%20Stack.png)
 
-A step by step series of examples that tell you how to get a development env running
+## Live Demo
 
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
-
-## Project Svādhyāya
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+You can find a running system to test at [project-svadhyaya-simple-client](https://project-svadhyaya-simple-client.us-south.cf.appdomain.cloud/)
 
 ## Built with
 
