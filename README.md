@@ -10,7 +10,7 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
-1. [The architecture](#the-architecture)
+1. [The Workflow](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
@@ -43,7 +43,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Project Svādhyāya - Student BOT Ineractions](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20Flow%20Diagram.png)
 
 1. The student(user) navigates to website and post their question.
 2. Watson Assistant reponds to the questions through its skills
@@ -56,7 +56,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20Time%20Line.png)
 
 ## Getting started
 
@@ -125,12 +125,9 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - The intelligent chatbot engine
+* [IBM Cloud Foundary](https://cloud.ibm.com/cloudfoundry/overview) - The deployment server or cluster
+* [Node js](https://cloud.ibm.com/catalog/starters/cloud-foundry?runtime=sdk-for-nodejs) - The web framework used
 
 ## Contributing
 
@@ -142,9 +139,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Aswini Mahanta** - *Initial work* - [aswinimahanta](https://github.com/aswinimahanta/)
+* **Abinash Ray** - *Initial work* - 
 
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/aswinimahanta/Project-Svadhyaya/graphs/contributors) who participated in this project.
 
 ## License
 
