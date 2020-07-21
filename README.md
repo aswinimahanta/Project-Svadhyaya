@@ -72,7 +72,7 @@ High-level system overview of Project Svādhyāya
 
 ## Live Demo
 
-You can find a running system to test at [project-svadhyaya-simple-client](https://project-svadhyaya-simple-client.us-south.cf.appdomain.cloud/)
+You can find a running system to test at [project-svadhyaya-simple-client](https://project-svadhyaya-simple-client.mybluemix.net/)
 
 ## Built with
 
