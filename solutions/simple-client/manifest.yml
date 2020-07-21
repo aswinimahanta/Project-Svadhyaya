@@ -1,5 +1,5 @@
 applications:
-- name: covid-assistant-simple
+- name: project-svadhyaya-simple-client
   command: npm start
   path: .
   memory: 256M
