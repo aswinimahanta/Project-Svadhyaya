@@ -91,7 +91,7 @@ We use [GitHub](https://github.com/) for versioning. For the versions available,
 ## Authors
 
 * **Aswini Mahanta** - *Initial work* - [aswinimahanta](https://github.com/aswinimahanta/)
-* **Abinash Ray** - *Initial work* - 
+* **Abinash Ray** - *Initial work* - [abinashray29](https://github.com/abinashray29)
 
 See also the list of [contributors](https://github.com/aswinimahanta/Project-Svadhyaya/graphs/contributors) who participated in this project.
 
