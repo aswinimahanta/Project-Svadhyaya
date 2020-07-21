@@ -77,7 +77,9 @@ You can find a running system to test at [project-svadhyaya-simple-client](https
 ## Built with
 
 * [IBM Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - The intelligent chatbot engine
-* [IBM Cloud Foundary](https://cloud.ibm.com/cloudfoundry/overview) - The deployment server or cluster
+* [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery) - The ultimate news data source
+* [IBM Cloud Functions](https://cloud.ibm.com/functions/) - The serverless execution
+* [IBM Cloud Foundry App](https://cloud.ibm.com/cloudfoundry/overview) - The deployment server or cluster
 * [Node js](https://cloud.ibm.com/catalog/starters/cloud-foundry?runtime=sdk-for-nodejs) - The web framework used
 
 ## Contributing
