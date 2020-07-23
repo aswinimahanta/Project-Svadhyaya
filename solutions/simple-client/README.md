@@ -14,7 +14,6 @@ Objective of Project Svādhyāya is to provide a continuous and an uninterrupted
     - Log in to your IBM Cloud account.
     - Go to resources and open your Watson Assistant service instance.
     - You will be taken to Watson Assistant launch page. Click **Service Credentials** to view the service credentials.
-      ![Watson Assistant Credentials](readme_images/watson-assistant-credentials.png)
     - You will use these credentials to populate the `.env` file when configuring the application below. Copy and save the JSON somewhere or leave this window open.
 
 ## Steps
