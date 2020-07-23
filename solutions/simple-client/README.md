@@ -2,18 +2,9 @@ This is a simple Node.js application that is connected to a intelligent chatbot 
 
 The steps are taken from this [assistant-simple repository](https://github.com/watson-developer-cloud/assistant-simple) and adopted for 2020 Call for Code challenge. You can use this tutorial as a starting template for the [COVID-19 challenge](https://developer.ibm.com/callforcode/getstarted/covid-19/).
 
-## Learning objectives
+## Project objectives
 
-In this tutorial, you will:
-
-1. Learn how to create a simple Node.js application.
-2. Connect the application to a chatbot using the IBM Watson Assistant APIs.
-3. Test and run the application locally.
-4. Deploy the application on IBM Cloud as a Cloud Foundry application.
-
-Here is a demo of the final application:
-
-![Chatbot demo](readme_images/covid-bot-demo.gif)
+Objective of Project Svādhyāya is to provide a continuous and an uninterrupted learning experience to students by means of a hyper-localized learning system.
 
 ## Prerequisites
 
@@ -26,17 +17,13 @@ Here is a demo of the final application:
       ![Watson Assistant Credentials](readme_images/watson-assistant-credentials.png)
     - You will use these credentials to populate the `.env` file when configuring the application below. Copy and save the JSON somewhere or leave this window open.
 
-## Estimated **time**
-
-This tutorial will take you about 30 minutes to complete.
-
 ## Steps
 
-The following steps assume that you have created an assistant, imported the COVID skills, and have the Watson Assistant service credentials available.
+The following steps assume that you have created an assistant, imported the GRADE 2 MATH skills, and have the Watson Assistant service credentials available.
 
 ## Configuring the application
 
-1. Clone the repository and cd into `starter-kit/covid-simple`.
+1. Clone the repository and cd into `solution/simple-client`.
 
 2. Copy the *.env.example* file to a file called *.env*
 
@@ -117,7 +104,7 @@ The following steps assume that you have created an assistant, imported the COVI
     ```
 
 1. Edit the *manifest.yml* file. Change the **name** field to something unique.  
-  For example, `- name: covid-assistant-simple-yourname`.
+  For example, `- name: math-assistant-simple-yourname`.
 
 1. Deploy the application
 
@@ -125,7 +112,7 @@ The following steps assume that you have created an assistant, imported the COVI
     ibmcloud app push
     ```
 
-1. View the application online at the app URL. For example, [covid-assistant-simple-yourname.mybluemix.net](covid-assistant-simple-yourname.mybluemix.net).
+1. View the application online at the app URL. For example, [math-assistant-simple-yourname.mybluemix.net](math-assistant-simple-yourname.mybluemix.net).
 
 ## Take on COVID-19
 
