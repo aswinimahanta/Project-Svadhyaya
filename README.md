@@ -16,8 +16,6 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 1. [System Overview](#system-overview)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
 1. [Authors](#authors)
 1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
@@ -81,14 +79,6 @@ You can find a running system to test at [project-svadhyaya-simple-client](https
 * [IBM Cloud Functions](https://cloud.ibm.com/functions/) - The serverless execution
 * [IBM Cloud Foundry App](https://cloud.ibm.com/cloudfoundry/overview) - The deployment server or cluster
 * [Node js](https://cloud.ibm.com/catalog/starters/cloud-foundry?runtime=sdk-for-nodejs) - The web framework used
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/aswinimahanta/Project-Svadhyaya).
 
 ## Authors
 
