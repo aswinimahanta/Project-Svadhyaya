@@ -28,7 +28,7 @@ Befor the new normal can be baselined, the most recited guidance on limiting fur
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well to ensure contineous learning.
+Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well to ensure contineous learning. Technology can help establish a connection between sutent and teacher on demand. It can also help student access the resources they need instantly.
 
 ### The idea
 
