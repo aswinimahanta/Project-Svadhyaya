@@ -11,7 +11,6 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 1. [Short description](#short-description)
 1. [Explainer Video](#explainer-video)
 1. [The Workflow](#the-workflow)
-1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [System Overview](#system-overview)
 1. [Live demo](#live-demo)
@@ -47,10 +46,6 @@ Click on the below image to watch the explainer video on YouTube.
 2. Watson Assistant reponds to the questions through its skills
 3. Watson Assistant directs the questions to experts(user)
 4. Experts(user) communicates to student(user)
-
-## Long description
-
-[More detail is available here](DESCRIPTION.md)
 
 ## Project roadmap
 
