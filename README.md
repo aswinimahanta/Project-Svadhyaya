@@ -24,7 +24,7 @@ In a nutshell, objective of Project Svādhyāya is to provide a continuous and a
 
 ### What's the problem?
 
-Befor the new normal can be baselined, the most recited guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, ensuring they remain connected with their teachers and have access to source of their knowledge is necessary. Any interruption in learning process makes a learner disapointed. With a need of stay at shelter, it is difficult for the students to meet with their favourite teachers in person. 
+Before the new normal can be baselined, the most recited guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, ensuring they remain connected with their teachers and have access to source of their knowledge is necessary. Any interruption in learning process makes a learner disapointed. With a need of stay at shelter, it is difficult for the students to meet with their favourite teachers in person. 
 
 ### How can technology help?
 
@@ -42,6 +42,8 @@ Click on the below image to watch the explainer video on YouTube.
 ## Long description
 
 [More detail is available here](DESCRIPTION.md)
+
+[Read more details in portable document format]
 
 ## The Workflow
 
