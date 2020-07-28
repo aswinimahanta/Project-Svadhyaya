@@ -41,9 +41,9 @@ Click on the below image to watch the explainer video on YouTube.
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](images/Welcome%20To%20Project%20Sv%C4%81dhy%C4%81ya.pdf)
 
-[Read more details in portable document format]
+Read more details in portable document format.
 
 ## The Workflow
 
