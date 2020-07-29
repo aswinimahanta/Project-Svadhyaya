@@ -72,7 +72,7 @@ High-level system overview of Project Svādhyāya
 
 ## Live Demo
 
-You may like the bot with some basic 2nd graders questions like
+You may like to try out with some basic 2nd graders questions like
 
 1. What is Algebra
 1. What is Geometry
