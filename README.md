@@ -74,10 +74,12 @@ High-level system overview of Project Svādhyāya
 
 You may like the bot with some basic 2nd graders questions like
 
-1. What is Algebra?
-1. What is Geometry?
-1. What is Math?
+1. What is Algebra
+1. What is Geometry
+1. Can you tell me some math tricks
 1. Class Schedule
+1. News
+1. Bye
 
 You can find a running system to test at [project-svadhyaya-simple-client](https://project-svadhyaya-simple-client.mybluemix.net/)
 
