@@ -39,6 +39,8 @@ It's imperative that learning and creating can continue when educational institu
 Click on the below image to watch the explainer video on YouTube.
 [![Watch the video](https://github.com/aswinimahanta/Project-Svadhyaya/blob/master/images/Project%20Sv%C4%81dhy%C4%81ya%20-%20Learning%20Continues_Moment.jpg)](https://youtu.be/3YTJAsY6rXc)
 
+[Click here to watch the promotional video](https://youtu.be/VJYtwHhMO_4)
+
 ## Long description
 
 [More detail is available here](images/Welcome%20To%20Project%20Sv%C4%81dhy%C4%81ya.pdf)
