@@ -98,6 +98,10 @@ You can find a running system to test at [project-svadhyaya-simple-client](https
 * **Aswini Mahanta** - *Initial work* - [aswinimahanta](https://github.com/aswinimahanta/)
 * **Abinash Ray** - *Initial work* - [abinashray29](https://github.com/abinashray29)
 
+* **Tushar Biswal** - *Secondary work*
+* **Vrinda Panchawagh** - *Secondary work*
+* **Chandrakant Patil** - *Secondary work*
+
 See also the list of [contributors](https://github.com/aswinimahanta/Project-Svadhyaya/graphs/contributors) who participated in this project.
 
 ## License
